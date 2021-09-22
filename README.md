@@ -1,6 +1,6 @@
 # keel
 
-[![codecov](https://codecov.io/gh/xujielong/demo/branch/master/graph/badge.svg?token=MR6NSOHHA9)](https://codecov.io/gh/xujielong/demo)
+[![codecov](https://codecov.io/gh/tkeel-io/keel/branch/main/graph/badge.svg?token=OO5I0B4H40)](https://codecov.io/gh/tkeel-io/keel)
 
 ----
 
