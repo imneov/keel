@@ -6,7 +6,7 @@
 
 ## What is keel
 
-TODO
+Keel provider basic plugin such as manager, auth, gateway.
 
 ## Demo Environment
 
@@ -14,11 +14,17 @@ TODO
 
 ## Features
 
-TODO
+The goal of this tutorial is to demonstrate the basic usage of the most popular tKeel features. You will learn how to:
+ - Support Json Web Toke to devices;
+ - Provider basic plugin;
+ - Support extend plugin;
+ - Security mechanism.
 
 ## Architecture
 
-TODO
+The diagram below shows key system components and interfaces they provide. Let’s walk through them.
+
+![Architecture](docs/images/architecture.png)
 
 ## Latest Release
 TODO
